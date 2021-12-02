@@ -1,0 +1,22 @@
+data/app/logs/
+*/data/app/logs
+target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans\
+
+### IntelliJ IDEA ###
+log/
+doc/
+.idea
+*.iws
+*.iml
+*.ipr
+
+*.DS_Store
+classes
